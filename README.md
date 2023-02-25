@@ -1,1 +1,1 @@
-# new-blog-example
+# Java Notes of Pratham Mehta
