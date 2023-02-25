@@ -8,5 +8,5 @@ description: "A page with better college notes"
 # Build settings
 remote_theme: jekyll/minima 
 # It is the theme for your website. The default theme used by the Jekyll is minima. If you want to learn more about the theme, then jump on to this website 
-minima:
-  skin: dark
+#minima:
+  #skin: dark
