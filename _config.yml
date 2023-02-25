@@ -3,7 +3,7 @@ title: Great New Blog Title # This will be the title of your website, meaning ti
 author:
   name: Pratham Mehta
   email: pm3483@nyu.edu
-description: "Great site about Jekyll on GH-Pages."
+description: "A page with better college notes"
 
 # Build settings
 remote_theme: jekyll/minima 
