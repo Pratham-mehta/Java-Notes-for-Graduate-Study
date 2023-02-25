@@ -1,9 +1,10 @@
 # Site settings
-title: Great New Blog Title
+title: Great New Blog Title # This will be the title of your website, meaning title.com
 author:
-  name: Evan Will
-  email: your-email@domain.com
+  name: Pratham Mehta
+  email: pm3483@nyu.edu
 description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima 
+# It is the theme for your website. The default theme used by the Jekyll is minima. If you want to learn more about the theme, then jump on to this website 
