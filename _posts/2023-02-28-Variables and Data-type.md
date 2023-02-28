@@ -53,7 +53,7 @@ class Variable{
 }
 ```
 The above program will give you an error:
-![](@attachment/Clipboard_2023-02-28-17-02-32.png)
+![Clipboard_2023-02-28-17-02-32](https://user-images.githubusercontent.com/63767834/221995718-27daf4b8-142d-4c46-b200-8f838947bd4d.png)
 
 This shows that **Instance Variable** cannot be accessed without an object. You need to create an object. 
 **Note:**
