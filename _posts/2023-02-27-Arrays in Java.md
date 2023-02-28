@@ -1,5 +1,3 @@
-# Arrays in Java
-
 Previously we had studied about 2 types of data-types.
 
 They were:
