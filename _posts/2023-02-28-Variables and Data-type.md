@@ -1,4 +1,4 @@
-# <p style="text-align:center;color:purple">Types of Variables in Java</p>
+# Types of Variables in Java
 - Variable is an alternative name given for memory location
 - Variables in Java are of 3 types:
 	1. Local Variable
@@ -109,4 +109,4 @@ class Variable{
 ```
 - Since local variable are declared within the method, they can be accessed directly.
 
-## <p style="text-align:center;"> Made with ❤️ by Pratham Mehta
+##  Made with ❤️ by Pratham Mehta
